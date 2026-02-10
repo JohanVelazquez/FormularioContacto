@@ -49,6 +49,6 @@ Agrega una captura de pantalla de tu solución. La forma más fácil de hacerlo 
 - Nombre completo: Johan Andres Velazquez Caamal 
 - N° Control: 221K0030
 - Grupo: 8-A
-- Sitio  - [Johan Velazquez](https://github.com/JohanVelazquez)
-- Github - [@tuusuario](https://github.com/JohanVelazquez/FormularioContacto.git)
+- Sitio  -  https://contactosolucion.netlify.app/
+- Github - [@Johan Velazquez](https://github.com/JohanVelazquez/FormularioContacto.git)
 
