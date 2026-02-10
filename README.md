@@ -4,7 +4,7 @@ Solución del formulario de contacto
 ## Tabla de contenidos
 
 - [Resumen](#resumen)
-  - [Captura de pantalla](<img width="1075" height="904" alt="image" src="https://github.com/user-attachments/assets/2a6a7d00-6089-4b00-91e6-5ecc2733c497" />)
+  - [Captura de pantalla](#captura-de-pantalla)
   - [Enlaces](#enlaces)
 - [Autor](#autor)
 
