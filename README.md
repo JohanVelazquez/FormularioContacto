@@ -33,6 +33,8 @@ Asegúrate de documentar tu configuración y cualquier instrucción especial par
 
 ### Captura de pantalla
 
+Escritorio
+
 ![](./screenshot.jpg) 
 <img width="876" height="899" alt="Captura de pantalla 2026-02-09 213849" src="https://github.com/user-attachments/assets/1e272339-6d56-4367-a273-c385c3189e32" />
 
