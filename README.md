@@ -1,4 +1,4 @@
-# Evaluación diagnostica 
+# Evaluación diagnostica - formulario de contacto
 Solución del formulario de contacto
 
 ## Tabla de contenidos
@@ -10,13 +10,11 @@ Solución del formulario de contacto
 
 ## Resumen
 
-Tu desafío es construir este formulario de contacto y lograr que se vea lo más cercano posible al diseño. Presta especial atención a hacer que este formulario sea accesible. Construir formularios accesibles es una habilidad clave para los desarrolladores front-end. 
-
-Además de construir el frontend del formulario de contacto, también deberás implementar una parte de back-end para manejar el envío y recepción de información desde una base de datos. Así que este es un desafío perfecto para identificar el nivel de conocimiento en programacion web.
+El contenido de este repositorio contempla el desarrollo de una página web en la que se muestra un formulario de contacto, solicitando datos típicos como nombre, apellido y correo electrónico, en conjunto con otros datos relacionados.
 
 ### El desafío
 
-Tus usuarios deberían poder:
+Los usuarios deberían poder:
 
 - Completar el formulario y ver un mensaje de éxito al enviarlo correctamente
 - Recibir mensajes de validación del formulario si:
@@ -29,17 +27,20 @@ Tus usuarios deberían poder:
 - Enviar el formulario y almacenar los datos en la base de datos.
 - Recuperar y ver todos los envíos del formulario desde la base de datos.
 
-Asegúrate de documentar tu configuración y cualquier instrucción especial para el uso o acceso al site del formulario  para que el docente puedan entender y ejecutar tu proyecto fácilmente.
 
 ### Captura de pantalla
 
-Escritorio
+### Escritorio
 
 ![](./screenshot.jpg) 
 <img width="876" height="899" alt="Captura de pantalla 2026-02-09 213849" src="https://github.com/user-attachments/assets/1e272339-6d56-4367-a273-c385c3189e32" />
 
 
-Agrega una captura de pantalla de tu solución. La forma más fácil de hacerlo es usar un navegador para ver tu proyecto, hacer clic derecho en la página y seleccionar "Tomar una captura de pantalla". Puedes elegir una captura de pantalla de altura completa o una recortada según la longitud de la página. Si es muy larga, puede ser mejor recortarla.
+### Movil
+
+<img width="599" height="898" alt="image" src="https://github.com/user-attachments/assets/a4fa6417-2735-4224-b1f2-b77d3c298b35" />
+
+
 
 
 
