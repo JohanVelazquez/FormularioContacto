@@ -42,13 +42,13 @@ Agrega una captura de pantalla de tu solución. La forma más fácil de hacerlo 
 
 ### Enlaces
 
-- URL en GITHUB del proyecto:
+- URL en GITHUB del proyecto: https://github.com/JohanVelazquez/FormularioContacto.git 
 - URL del site: https://contactosolucion.netlify.app/ 
 
 ## Autor
-- Nombre completo 
-- N° Control
-- Grupo
+- Nombre completo: Johan Andres Velazquez Caamal 
+- N° Control: 221K0030
+- Grupo: 8-A
 - Sitio  - [Agrega tu nombre aquí](https://contactosolucion.netlify.app/)
-- Github - [@tuusuario](https://https://github.com/tuusuario)
+- Github - [@tuusuario](https://github.com/JohanVelazquez/FormularioContacto.git)
 
